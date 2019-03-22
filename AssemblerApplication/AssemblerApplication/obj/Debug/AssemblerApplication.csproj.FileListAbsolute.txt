@@ -1,0 +1,31 @@
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\bin\Debug\AssemblerApplication.exe.config
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\bin\Debug\AssemblerApplication.exe
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\bin\Debug\AssemblerApplication.pdb
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.AssemblerMainForm.resources
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.Properties.Resources.resources
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.csproj.GenerateResource.cache
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.csproj.CoreCompileInputs.cache
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.exe
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.pdb
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.csprojResolveAssemblyReference.cache
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.Simulator.resources
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.csproj.CopyComplete
+D:\Stef\Facultate\An 3\Semestrul II\Proiect AC - Horia Caprita\Proiect2018\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.MicrocodeParserWindow.resources
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\bin\Debug\AssemblerApplication.exe.config
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\bin\Debug\AssemblerApplication.exe
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\bin\Debug\AssemblerApplication.pdb
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.csprojResolveAssemblyReference.cache
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.AssemblerMainForm.resources
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.MicrocodeParserWindow.resources
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.Properties.Resources.resources
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.Simulator.resources
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.csproj.GenerateResource.cache
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.csproj.CoreCompileInputs.cache
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.csproj.CopyComplete
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.exe
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.pdb
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.MemoryForm.resources
+C:\Users\bianc\Desktop\Proiect AC\AssemblerApplication\AssemblerApplication\obj\Debug\AssemblerApplication.StackForm.resources
